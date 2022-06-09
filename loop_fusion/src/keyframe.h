@@ -26,6 +26,8 @@
 
 #define MIN_LOOP_NUM 25
 
+#include <opencv2/imgproc/types_c.h>
+
 using namespace Eigen;
 using namespace std;
 using namespace DVision;
